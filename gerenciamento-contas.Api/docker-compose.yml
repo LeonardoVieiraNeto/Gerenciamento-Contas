@@ -1,0 +1,11 @@
+version: '3'
+services:
+  rabbitmq:
+    image: rabbitmq:3.9-management
+    ports:
+      - "15672:15672" # Porta para a interface de gerenciamento do RabbitMQ
+      - "5672:5672"   # Porta para conexões AMQP
+
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest

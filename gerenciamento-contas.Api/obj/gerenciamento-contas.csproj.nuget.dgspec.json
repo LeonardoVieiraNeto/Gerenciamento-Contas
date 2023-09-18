@@ -1,0 +1,332 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/leonardo/Projetos/Orama/gerenciamento-contas.Api/gerenciamento-contas.csproj": {}
+  },
+  "projects": {
+    "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/Gerenciamento-Contas.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/Gerenciamento-Contas.Models.csproj",
+        "projectName": "Gerenciamento-Contas.Models",
+        "projectPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/Gerenciamento-Contas.Models.csproj",
+        "packagesPath": "/home/leonardo/.nuget/packages/",
+        "outputPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leonardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Swashbuckle": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/221/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/Gerenciamento-Contas.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/Gerenciamento-Contas.Repository.csproj",
+        "projectName": "Gerenciamento-Contas.Repository",
+        "projectPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/Gerenciamento-Contas.Repository.csproj",
+        "packagesPath": "/home/leonardo/.nuget/packages/",
+        "outputPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leonardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/Gerenciamento-Contas.Models.csproj": {
+                "projectPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/Gerenciamento-Contas.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/221/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/Gerenciamento-Contas.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/Gerenciamento-Contas.Services.csproj",
+        "projectName": "Gerenciamento-Contas.Services",
+        "projectPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/Gerenciamento-Contas.Services.csproj",
+        "packagesPath": "/home/leonardo/.nuget/packages/",
+        "outputPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leonardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/Gerenciamento-Contas.Models.csproj": {
+                "projectPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/Gerenciamento-Contas.Models.csproj"
+              },
+              "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/Gerenciamento-Contas.Repository.csproj": {
+                "projectPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/Gerenciamento-Contas.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/221/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/leonardo/Projetos/Orama/gerenciamento-contas.Api/gerenciamento-contas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/leonardo/Projetos/Orama/gerenciamento-contas.Api/gerenciamento-contas.csproj",
+        "projectName": "gerenciamento-contas",
+        "projectPath": "/home/leonardo/Projetos/Orama/gerenciamento-contas.Api/gerenciamento-contas.csproj",
+        "packagesPath": "/home/leonardo/.nuget/packages/",
+        "outputPath": "/home/leonardo/Projetos/Orama/gerenciamento-contas.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/leonardo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/Gerenciamento-Contas.Models.csproj": {
+                "projectPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/Gerenciamento-Contas.Models.csproj"
+              },
+              "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/Gerenciamento-Contas.Repository.csproj": {
+                "projectPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/Gerenciamento-Contas.Repository.csproj"
+              },
+              "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/Gerenciamento-Contas.Services.csproj": {
+                "projectPath": "/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/Gerenciamento-Contas.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/221/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/bin/Debug/net7.0/Gerenciamento-Contas.Repository.deps.json
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/bin/Debug/net7.0/Gerenciamento-Contas.Repository.runtimeconfig.json
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/bin/Debug/net7.0/Gerenciamento-Contas.Repository.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/bin/Debug/net7.0/Gerenciamento-Contas.Repository.pdb
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/bin/Debug/net7.0/Gerenciamento-Contas.Models.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/bin/Debug/net7.0/Gerenciamento-Contas.Models.pdb
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/Debug/net7.0/Gerenciamento-Contas.Repository.csproj.AssemblyReference.cache
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/Debug/net7.0/Gerenciamento-Contas.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/Debug/net7.0/Gerenciamento-Contas.Repository.AssemblyInfoInputs.cache
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/Debug/net7.0/Gerenciamento-Contas.Repository.AssemblyInfo.cs
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/Debug/net7.0/Gerenciamento-Contas.Repository.csproj.CoreCompileInputs.cache
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/Debug/net7.0/Gerenciamento-Contas.Repository.csproj.CopyComplete
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/Debug/net7.0/Gerenciamento-Contas.Repository.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/Debug/net7.0/refint/Gerenciamento-Contas.Repository.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/Debug/net7.0/Gerenciamento-Contas.Repository.pdb
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/Debug/net7.0/Gerenciamento-Contas.Repository.genruntimeconfig.cache
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Repository/obj/Debug/net7.0/ref/Gerenciamento-Contas.Repository.dll

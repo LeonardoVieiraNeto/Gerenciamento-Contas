@@ -1,0 +1,12 @@
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/bin/Debug/net7.0/Gerenciamento-Contas.Models.deps.json
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/bin/Debug/net7.0/Gerenciamento-Contas.Models.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/bin/Debug/net7.0/Gerenciamento-Contas.Models.pdb
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/obj/Debug/net7.0/Gerenciamento-Contas.Models.csproj.AssemblyReference.cache
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/obj/Debug/net7.0/Gerenciamento-Contas.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/obj/Debug/net7.0/Gerenciamento-Contas.Models.AssemblyInfoInputs.cache
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/obj/Debug/net7.0/Gerenciamento-Contas.Models.AssemblyInfo.cs
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/obj/Debug/net7.0/Gerenciamento-Contas.Models.csproj.CoreCompileInputs.cache
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/obj/Debug/net7.0/Gerenciamento-Contas.Models.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/obj/Debug/net7.0/refint/Gerenciamento-Contas.Models.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/obj/Debug/net7.0/Gerenciamento-Contas.Models.pdb
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Models/obj/Debug/net7.0/ref/Gerenciamento-Contas.Models.dll

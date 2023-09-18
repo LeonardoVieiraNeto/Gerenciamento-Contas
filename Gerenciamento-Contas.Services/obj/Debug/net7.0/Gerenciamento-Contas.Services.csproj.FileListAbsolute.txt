@@ -1,0 +1,17 @@
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/obj/Debug/net7.0/Gerenciamento-Contas.Services.csproj.AssemblyReference.cache
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/obj/Debug/net7.0/Gerenciamento-Contas.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/obj/Debug/net7.0/Gerenciamento-Contas.Services.AssemblyInfoInputs.cache
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/obj/Debug/net7.0/Gerenciamento-Contas.Services.AssemblyInfo.cs
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/obj/Debug/net7.0/Gerenciamento-Contas.Services.csproj.CoreCompileInputs.cache
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/bin/Debug/net7.0/Gerenciamento-Contas.Services.deps.json
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/bin/Debug/net7.0/Gerenciamento-Contas.Services.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/bin/Debug/net7.0/Gerenciamento-Contas.Services.pdb
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/bin/Debug/net7.0/Gerenciamento-Contas.Models.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/bin/Debug/net7.0/Gerenciamento-Contas.Repository.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/bin/Debug/net7.0/Gerenciamento-Contas.Repository.pdb
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/bin/Debug/net7.0/Gerenciamento-Contas.Models.pdb
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/obj/Debug/net7.0/Gerenciamento-Contas.Services.csproj.CopyComplete
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/obj/Debug/net7.0/Gerenciamento-Contas.Services.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/obj/Debug/net7.0/refint/Gerenciamento-Contas.Services.dll
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/obj/Debug/net7.0/Gerenciamento-Contas.Services.pdb
+/home/leonardo/Projetos/Orama/Gerenciamento-Contas.Services/obj/Debug/net7.0/ref/Gerenciamento-Contas.Services.dll
